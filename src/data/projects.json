@@ -1,26 +1,24 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "title": "Instant Eats",
+    "imageSrc": "projects/FOOD-ORDER-DELIVER.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React","Firebase", "Bootstrap"],
+    "demo": "",
+    "source": "https://github.com/Mswati03/food-order-app"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
+    "title": "Task Master",
+    "imageSrc": "projects/TASKMATSER.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["Flutter", "Firebase", "Dart"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Mswati03/flutter-to-do-app"
   },
   {
-    "title": "Project C",
+    "title": "BAM Employee App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description":"Employees are able to check in and out, access company docs, etc. No code as contract implies",
+    "skills": ["Flutter", "Firebase", "Dart"]
   }
 ]
