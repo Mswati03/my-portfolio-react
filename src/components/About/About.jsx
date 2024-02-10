@@ -30,7 +30,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/img.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>Figma Designer Extraordinaire </h3>
               <p>

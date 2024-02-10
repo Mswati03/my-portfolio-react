@@ -36,8 +36,21 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  position: relative;
 }
-
+nav ul li a::after{
+  content:'';
+  width:0;
+  height: 3px;
+  background-color: blue;
+  left: 0;
+  bottom: -6px;
+  position: absolute;
+  transition: 0.5s;
+}
+nav ul li a:hover::after{
+  width: 100%;
+}
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;
@@ -80,3 +93,4 @@
     z-index: 1;
   }
 }
+

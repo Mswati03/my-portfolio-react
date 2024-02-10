@@ -15,6 +15,13 @@ function App() {
       <Experience />
       <Projects />
       <Contact />
+
+
+<center>
+    <p style={{color:"white"}}>
+    © 2024 Mswati Tshabalala. All rights are reserved
+     </p>
+</center>
     </div>
   );
 }
