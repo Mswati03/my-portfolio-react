@@ -1,9 +1,9 @@
 [
   {
-    "role": "Software Engineer",
+    "role": "Software Engineer Intern",
     "organisation": "Bam Consultancy",
     "startDate": "Sept, 2023",
-    "endDate": "Present",
+    "endDate": "Mar 2024",
     "experiences": ["Working on corporate applications", "Optimizing existing softwares"],
     "imageSrc": "history/bam.jpeg"
   },
@@ -11,19 +11,19 @@
     "role": "Web Developer Intern",
     "organisation": "Impact School",
     "startDate": "Sept, 2023",
-    "endDate": "Present",
+    "endDate": "Mar 2024",
     "experiences": ["Developing React applications", "Assisting students with ongoing projects"],
     "imageSrc": "history/impact.png"
   },
   {
-    "role": "Freelancer",
-    "organisation": "Upwork",
-    "startDate": "Jan, 2024",
+    "role": "Junior Software Engineer",
+    "organisation": "Nucleus Creative Studio",
+    "startDate": "Aug, 2024",
     "endDate": "Present",
     "experiences": [
-      "Worked on mobile appications",
+      "Working nextJS web appications",
       "Helped create UI designs for clients"
     ],
-    "imageSrc": "history/upwork.svg"
+    "imageSrc": "history/nuclues.jpg"
   }
 ]

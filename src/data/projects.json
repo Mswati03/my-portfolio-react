@@ -1,8 +1,15 @@
 [
   {
+    "title": "MediBooker",
+    "imageSrc": "projects/doc.png",
+    "description":"Doctor Appointment Booking App created by Flutter",
+    "skills": ["Flutter", "Firebase", "Dart"],
+    "source": "https://github.com/Mswati03/doctor-appointment-app"
+  },
+  {
     "title": "Instant Eats",
     "imageSrc": "projects/FOOD-ORDER-DELIVER.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a react food order app used to order food, has a payment gateway, authentication etc.",
     "skills": ["React","Firebase", "Bootstrap"],
     "demo": "",
     "source": "https://github.com/Mswati03/food-order-app"
@@ -10,15 +17,17 @@
   {
     "title": "Task Master",
     "imageSrc": "projects/TASKMATSER.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to manage tasks and provide efficiency in completing them.",
     "skills": ["Flutter", "Firebase", "Dart"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Mswati03/flutter-to-do-app"
   },
   {
-    "title": "BAM Employee App",
-    "imageSrc": "projects/project.png",
-    "description":"Employees are able to check in and out, access company docs, etc. No code as contract implies",
-    "skills": ["Flutter", "Firebase", "Dart"]
+    "title": "Explore Lesotho",
+    "imageSrc": "projects/explorelesotho.png",
+    "description":"Tourists Accomodation Booking App created by Flutter",
+    "skills": ["Flutter", "Firebase", "Dart"],
+    "source": "https://github.com/Mswati03/explore_lesotho"
   }
+
 ]

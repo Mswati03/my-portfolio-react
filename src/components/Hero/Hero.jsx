@@ -9,8 +9,19 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Mswati Tshabalala</h1>
         <p className={styles.description}>
-            A Software developer with over 2 years of experience in building optimized sites and mutliplatform applications</p>
-        <a href="mailto:mswatitshabalala34@gmail.com" className={styles.contactBtn}>
+          Computer System Engineering Fresher with a strong foundation in
+          developing web and mobile applications, as well as websites.
+          Proficient in various programming languages and development tools, I
+          am eager to apply my technical skills to create efficient,
+          user-friendly solutions. My goal is to contribute to innovative
+          projects that enhance user experience and meet business objectives
+          while continuously learning and staying updated with industry trends
+          and best practices.
+        </p>
+        <a
+          href="mailto:mswatitshabalala34@gmail.com"
+          className={styles.contactBtn}
+        >
           Contact Me
         </a>
       </div>
