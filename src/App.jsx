@@ -5,17 +5,12 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
+import UnderConstruction from "./components/UnderConstruction/UnderConstruction";
 
 function App() {
   return (
-    <div className={styles.App}>
-      <Navbar />
-      <Hero />
-      <About />
-      <Experience />
-      <Projects />
-      <Contact />
-
+    <div >
+  <UnderConstruction/>
 
 <center>
     <p style={{color:"white"}}>
